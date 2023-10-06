@@ -1,0 +1,40 @@
+body{
+    padding:20px;
+}
+.cabecalho{
+    height: 50px;
+    border:solid 1px #919191;
+    font-size:30px;
+    font-weight: 700;
+}
+.cabecalho div{
+    padding: 2px;
+}
+.img{
+    height:150px;
+    border:solid 1px #919191;
+    font-size:30px;
+}
+.img div{
+    padding:50px;
+}
+.cont div{
+    height: 50px;
+    border:solid 1px #919191;
+    color:green;
+    font-size: 20px;
+    padding: 7px;
+}
+.vazio div{
+    height: 50px;
+    border:solid 1px #919191;
+}
+.rodape{
+    height: 150px;
+    border:solid 1px #919191;
+    font-size:30px;
+    font-weight: 700;
+}
+.rodape div{
+    padding:50px;
+}
